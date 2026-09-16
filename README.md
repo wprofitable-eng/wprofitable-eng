@@ -1,4 +1,4 @@
-# Hi, I'm Awoyeye Oluwaseyi Hamend 👋
+# Hi, I'm Eric Braiden 👋
 ### Software Engineer | Distributed Systems & AI Automation
 
 I build resilient distributed backend services, automated decision pipelines, and quantitative execution engines using C++ and Python. Focused on low-latency microservices, fault tolerance, and production ML pipelines.
