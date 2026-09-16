@@ -1,4 +1,4 @@
-# Hi, I'm Eric Braiden 👋
+# Hi, I'm Eric Profitablearena 👋
 ### Software Engineer | Distributed Systems & AI Automation
 
 I build resilient distributed backend services, automated decision pipelines, and quantitative execution engines using C++ and Python. Focused on low-latency microservices, fault tolerance, and production ML pipelines.
@@ -28,4 +28,4 @@ I build resilient distributed backend services, automated decision pipelines, an
 
 ---
 
-📫 **Connect with me:** `your.email@example.com`
+📫 **Connect with me:** `Profitablearena@gmail.com`
